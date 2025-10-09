@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">👾 Engenheiro de Software dedicado à área de Qualidade, atualmente explorando automação de testes com Cypress. Comprometido em garantir qualidade, identificar melhorias e transformar aprendizados em soluções inovadoras. 👾</p>
+<p align="left">Engenheiro de Software dedicado à área de Qualidade, atualmente explorando automação de testes com Cypress. Comprometido em garantir qualidade, identificar melhorias e transformar aprendizados em soluções inovadoras.</p>
 
 ###
 
@@ -66,8 +66,6 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo" />
   </a>
 </div>
-
-###
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/brunohofmeister/brunohofmeister/output/github-contribution-grid-snake-dark.svg">
