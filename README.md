@@ -64,11 +64,15 @@
   </a>
   <a href="+55 (41) 99999-0035" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
-  </a>
-</div>
 
 ###
 
 <img src="https://raw.githubusercontent.com/brunohofmeister/brunohofmeister/output/snake.svg" alt="Snake animation" />
-
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/brunohofmeister/brunohofmeister/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/brunohofmeister/brunohofmeister/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/brunohofmeister/brunohofmeister/output/github-contribution-grid-snake.svg">
+</picture>
+  </a>
+</div>
 ###
