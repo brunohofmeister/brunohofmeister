@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Engenheiro de Software dedicado à área de Qualidade, atualmente explorando automação de testes com Cypress. Comprometido em garantir qualidade, identificar melhorias e transformar aprendizados em soluções inovadoras.</p>
+<p align="left">Engenheiro de Software dedicado à área de Qualidade, atualmente explorando automação de testes com Playwright. Comprometido em garantir qualidade, identificar melhorias e transformar aprendizados em soluções inovadoras.</p>
 
 ###
 
