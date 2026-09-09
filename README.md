@@ -1,71 +1,49 @@
-<h1 align="left">Saudações, seja bem vindo(a) ao meu perfil😉</h1>
+<h1 align="left">I'm Bruno Hofmeister - Welcome to my profile! 👋</h1>
 
-###
+<p align="left">Software Engineer focused on Quality Assurance and Test Automation, passionate about continuous improvement and building reliable software solutions.</p>
 
-<p align="left">Engenheiro de Software dedicado à área de Qualidade, atualmente explorando automação de testes com Playwright. Comprometido em garantir qualidade, identificar melhorias e transformar aprendizados em soluções inovadoras.</p>
+<hr>
 
-###
-
-<h2 align="left">Os 10 Mandamentos da Qualidade</h2>
-
-###
+<h2 align="left">⚡ About Me</h2>
 
 <p align="left">
-🌟 “Qualidade não é um resultado, é uma responsabilidade compartilhada que começa com o QA.”<br><br>
-🧪 “QA não é sobre achar culpa — é sobre achar causas.”<br><br>
-🧠 “Pensar como um usuário e agir como um detetive: esse é o poder do QA.”<br><br> 
-⚙️ “Cada bug encontrado é uma oportunidade de entregar mais qualidade e confiança.”<br><br>
-💡 “Testar é acreditar que sempre dá pra fazer melhor.”<br><br> 
-💬 “A perfeição não é o objetivo, mas a melhoria contínua é o caminho.”<br><br>
-🧭 “QA é mais do que testar software — é guiar o produto rumo à excelência.”<br><br>
-🚀 “O verdadeiro sucesso de um QA é quando o usuário nunca percebe o erro que ele evitou.”<br><br>
-🧩 “O QA não destrói o trabalho dos outros, ele o fortalece.”<br><br>
-🐞 “Um bug ignorado hoje é uma falha crítica amanhã.”</p>
+  <b>🎮 Gaming:</b> Gamer | 80+ Platinum Trophies | 1,000+ Games Completed<br>
+  <b>🎬 Entertainment:</b> 400+ Movies Watched | 100+ TV Series Finished<br>
+  <b>🎲 Hobbies:</b> Board Games & Card Games Enthusiast<br>
+  <b>🦖 Wildlife:</b> Dinosaur Enthusiast | Animal Protector<br>
+  <b>⚽ Sports:</b> Grêmio Fan since 1999 | Football | Table Tennis | Cycling
+</p>
 
-###
+<hr>
 
-<h2 align="left">Tecnologias</h2>
+<h2 align="left">🧪 5 QA Principles</h2>
 
-###
+<p align="left">
+🌟 Quality is not a result; it is a shared responsibility that begins with QA.<br><br>
+🧠 QA is not about finding blame — it is about finding causes.<br><br>
+🧩 QA does not destroy other people's work; it strengthens it.<br><br>
+🐞 A bug ignored today is a critical failure tomorrow.<br><br>
+💡 Testing is believing that things can always be done better.
+</p>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" alt="slack logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
-</div>
+<hr>
 
-###
+<h2 align="left">🛠️ Technologies & Tools</h2>
 
-<h2 align="left">Redes sociais</h2>
+<p align="left">
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Playwright-45BA4B?style=for-the-badge&logo=Playwright&logoColor=white" alt="Playwright" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</p>
 
-###
-
-<div align="left">
+<p align="center">
+  <i>Thank you for visiting my profile! Feel free to connect or reach out.</i><br><br>
+  <b>Bruno Hofmeister</b><br><br>
   <a href="https://www.linkedin.com/in/brunohofmeister" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:brunohofmeister11@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
-  </a>
-  <a href="https://wa.me/5541999990035" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo" />
-  </a>
-</div>
-
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/brunohofmeister/brunohofmeister/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/brunohofmeister/brunohofmeister/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/brunohofmeister/brunohofmeister/output/github-contribution-grid-snake.svg">
-</picture>
-  </a>
-</div>
+</p>
